@@ -1,0 +1,41 @@
+div.profile_detail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+}
+
+img {
+    border-radius: 200px;
+}
+
+div.profile_card {
+    margin-left: 30px;
+
+    h1 {
+        font-size: 28px;
+    }
+}
+
+div.proflie_table {
+    display: flex;
+    justify-content: center;
+
+    div.profile_tatle_detail{
+        h2{
+            font-size: 24px;
+        }
+
+        teble {
+            border: solid #051352;
+            padding: 24px;
+            text-align: center;
+        }
+
+        td{
+            border: solid #0b3f7a;
+            width: 200px;
+        }
+    }
+}
