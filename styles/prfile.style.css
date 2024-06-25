@@ -18,11 +18,11 @@ div.profile_card {
     }
 }
 
-div.proflie_table {
+div.profile_table {
     display: flex;
     justify-content: center;
 
-    div.profile_tatle_detail{
+    div.profile_table_detail{
         h2{
             font-size: 24px;
         }
@@ -36,6 +36,7 @@ div.proflie_table {
         td{
             border: solid #0b3f7a;
             width: 200px;
+            text-align: center;
         }
     }
 }
